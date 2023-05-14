@@ -1,0 +1,15 @@
+nav {
+  width: 100vw;
+  height: 20rem;
+  max-height: 100dvh;
+  background-color: var(--black);
+  position: absolute;
+}
+
+#toggle_nav_button {
+  height: 2rem;
+  width: 2rem;
+  position: absolute;
+  right: 0;
+  bottom: -2rem;
+}
